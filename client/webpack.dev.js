@@ -29,7 +29,7 @@ export default merge(common, {
     devtool: 'cheap-module-source-map',
     plugins: [
         new DotenvWebpackPlugin({
-            path: path.resolve('.env.development'),
+            path: path.resolve('.env'),
         }),
     ],
 });

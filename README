@@ -1,6 +1,9 @@
-To start the application following below instructions:
-go to the client directory
-run following commands
+To start the application follow below instructions:
+
+Go to the client directory and create .env file.
+Copy env.example variables located in the root directory into .env file.
+
+Run following commands
 npm install
 npm run dev
 
@@ -9,3 +12,5 @@ go to the server directory
 run following commands
 npm install
 npm start
+
+Application would be available at http://localhost:9000 host.
