@@ -1,5 +1,11 @@
 To start the application following below instructions:
-go to the client directory and run: npm run dev.
+go to the client directory
+run following commands
+npm install
+npm run dev
 
 Open second terminal
-go to the server directory and run: npm run dev
+go to the server directory
+run following commands
+npm install
+npm start
