@@ -1,15 +1,15 @@
 To start the application follow below instructions:
 
 Go to the client directory and create .env file.
-Copy env.example variables located in the root directory into .env file.
+Copy env.example variables, located in the client directory, into .env file.
 
-Run following commands
+In the client directory run following commands
 npm install
 npm run dev
 
 Open second terminal
-go to the server directory
-run following commands
+Go to the server directory
+Run following commands
 npm install
 npm start
 
